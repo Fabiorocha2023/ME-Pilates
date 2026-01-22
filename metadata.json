@@ -1,0 +1,8 @@
+{
+  "name": "PilatesFlow Manager",
+  "description": "A comprehensive management system for Pilates studios, handling scheduling, student payments, and automated notifications with an integrated student portal.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
